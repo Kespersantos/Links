@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Aqui está o arquivo `README.md` para o seu repositório no GitHub:
 
 ```markdown
@@ -42,3 +43,6 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 ```
 
 Para incluir a imagem, você pode adicionar uma imagem de uma pessoa em um computador no diretório `folder` do seu projeto e nomeá-la como ex: `imagem.png`. Se precisar de ajuda com mais alguma coisa, estou à disposição!
+=======
+
+>>>>>>> c386256f9f24adabba83469a1c2f3f4776290018
